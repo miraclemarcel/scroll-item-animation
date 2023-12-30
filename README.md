@@ -1,2 +1,2 @@
 # scroll-item-animation
-Anited scroll feature for item lists
+Animated scroll feature for item lists
